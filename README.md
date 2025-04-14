@@ -22,5 +22,5 @@ Welcome to my Salesforce Admin portfolio. This repository includes real-world pr
 ---
 
 ## Connect with Me
-- [LinkedIn](https://linkedin.com/in/neslihansahinn)
+- [LinkedIn](https://linkedin.com/in/neslihansahinnn)
 - [Trailhead Profile](https://trailhead.salesforce.com/me/neslihansahin)
